@@ -1,6 +1,6 @@
 ## When calculations are perfomed on a large amount of data,
 ## a great amount of resources are used, such as memory, storage
-## retrieval, and cpu time. Instead of performing the same calculations
+## retrieval, and cpu time.Instead of performing the same calculations
 ## multiple times, R allows the programmer to compute
 ## once and store the value to be used for a later time.  
 
